@@ -1,4 +1,4 @@
-** start of undefined **
+** start of HTML **
 
 <!DOCTYPE html>
 <head>
@@ -31,9 +31,9 @@
     </form>
 </body>
 
-** end of undefined **
+** end of HTML **
 
-** start of undefined **
+** start of CSS **
 
 body {
   width: 100%;
@@ -92,5 +92,5 @@ input[type="submit"] {
 }
 
 
-** end of undefined **
+** end of CSS **
 
